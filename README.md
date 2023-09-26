@@ -1,1 +1,1 @@
-# number-slider-game
+# Number Slider Game
